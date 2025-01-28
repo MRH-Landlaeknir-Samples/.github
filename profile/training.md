@@ -149,7 +149,7 @@ Revised Training Schedule with MVC Focus
     - [Moq](https://github.com/moq/moq)
 
 ### Week 8: DevOps & Cloud Deployment
-- **CI/CD Pipelines**: GitHub Actions/Azure DevOps for Dapper apps.
+- **CI/CD Pipelines**: GitHub Actions/Azure DevOps.
 - **Database Migrations**: DbUp/FluentMigrator (no EF Core).
 - **Hands-On**:
   - Dockerize the MVC/Blazor app and deploy to Azure/AWS.
@@ -191,7 +191,7 @@ Revised Training Schedule with MVC Focus
 
 ## Weekly Breakdown with Key Comparisons
 
-| **Week** | **Focus**               | **React/Next.js Analogy**               | **Key Tools**                  |
+| **Week** | **Focus**               | **React/Next.js Analogy**               | **Key .NET Tools**                  |
 |----------|-------------------------|-----------------------------------------|---------------------------------|
 | 1        | C#, SQL, Dapper         | TypeScript → C#; Knex.js → Dapper       | VS Code, SQL Server, Dapper    |
 | 2        | MVC + Dapper            | Next.js API routes → MVC Controllers    | ASP.NET Core MVC, Razor        |

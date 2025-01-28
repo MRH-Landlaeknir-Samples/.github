@@ -18,13 +18,14 @@ A comprehensive plan integrating **ASP.NET Core MVC**, **Blazor**, **Dapper**, a
 	* 3.3. [Week 9: Security & Optimization](#Week9:SecurityOptimization)
 * [Phase 4: Capstone Project (Weeks 10–12)](#Phase4:CapstoneProjectWeeks1012)
 * [Weekly Breakdown with Key Comparisons](#WeeklyBreakdownwithKeyComparisons)
-* [Revised Training Schedule with MVC Focus](#RevisedTrainingSchedulewithMVCFocus)
-	* 1. [Phase 1: Core C# & MVC Fundamentals (Weeks 1–4)](#Phase1:CoreCMVCFundamentalsWeeks14)
-		* 1.1. [Week 1: C# Fundamentals with MVC Mindset](#Week1:CFundamentalswithMVCMindset)
-		* 1.2. [Week 2: ASP.NET Core MVC Deep Dive](#Week2:ASP.NETCoreMVCDeepDive)
-		* 1.3. [Week 3: MVC Advanced Patterns](#Week3:MVCAdvancedPatterns)
-		* 1.4. [Week 4: Integrating React with ASP.NET MVC](#Week4:IntegratingReactwithASP.NETMVC)
-	* 2. [Key Tips for Success](#KeyTipsforSuccess)
+---
+Revised Training Schedule with MVC Focus
+* [Phase 1: Core C# & MVC Fundamentals (Weeks 1–4)](#Phase1:CoreCMVCFundamentalsWeeks14)
+    * 1.1. [Week 1: C# Fundamentals with MVC Mindset](#Week1:CFundamentalswithMVCMindset)
+    * 1.2. [Week 2: ASP.NET Core MVC Deep Dive](#Week2:ASP.NETCoreMVCDeepDive)
+    * 1.3. [Week 3: MVC Advanced Patterns](#Week3:MVCAdvancedPatterns)
+    * 1.4. [Week 4: Integrating React with ASP.NET MVC](#Week4:IntegratingReactwithASP.NETMVC)
+* [Key Tips for Success](#KeyTipsforSuccess)
 
 <!-- vscode-markdown-toc-config
 	numbering=true

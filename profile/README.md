@@ -19,3 +19,6 @@ Hægt er að fá aðgang að bankanum með því að óska eftir aðgangi frá t
 # Réttleiki og ábyrgðir
 Athugið að embættið tekur enga ábyrgð á mögulegum villum sem kunna að vera í lausnum í lausnarbanka sínum og er ekki ætlast til að kóðinn þar sé notaður óbreyttur eða órýndur í lausnir verksala fyrir embættið.
 Verksali tekur fulla ábyrgð á þeim kóða og þeirri ákvörðun að nota kóða sem sýndur er í þessum lausnabanka embættisins í lausnir unnar fyrir embættið.
+
+# Fyrir teymi sem eru ókunnug .NET
+Hugmynd af 12 vikna þjálfunarprógrammi til að kynna .NET þróun fyrir Javascript/React framendateymi [er hægt að finna hérna](training.md).

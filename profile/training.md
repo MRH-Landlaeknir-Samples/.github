@@ -71,6 +71,7 @@ Revised Training Schedule with MVC Focus
     - [Microsoft Learn: Build Web Apps with ASP.NET Core MVC](https://learn.microsoft.com/en-us/training/paths/aspnet-core-web-app/)
   - **Templates**:
     - [ASP.NET Core MVC Template](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview)
+    - [Clean Architecture Solution For Razor Pages](https://github.com/neozhu/RazorPageCleanArchitecture)
 
 ### Week 3: Advanced Dapper & Hybrid Apps
 - **SQL Performance**: Batching, caching, stored procedures.
